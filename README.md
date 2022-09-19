@@ -6,6 +6,14 @@ Its main idea is tri-directional contrast, and specifically, it aims to maximize
 Together with simple but surprisingly effective data augmentation and negative sampling schemes, these three forms of contrast enable TriCL to capture both microscopic and mesoscopic structural information in node embeddings.
 Our extensive experiments using 14 baseline approaches, 10 datasets, and two tasks demonstrate the effectiveness of TriCL, and most noticeably, TriCL almost consistently outperforms not just unsupervised competitors but also (semi-)supervised competitors mostly by significant margins for node classification. 
 
+## Requirements
+- Python 3.9.12
+- PyTorch 1.11.0
+- PyTorch Geometric 2.0.4
+- Numpy 1.22.3
+- Scikit-learn 1.0.2
+- PyYAML 6.0 
+
 
 ## Reference
 This code is free and open source for only academic/research purposes (non-commercial).
