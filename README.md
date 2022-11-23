@@ -1,5 +1,5 @@
 # I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs
-This repository contains the source code for the paper [I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs](https://arxiv.org/abs/2206.04739), by [Dongjin Lee](https://github.com/wooner49) and [Kijung Shin](https://kijungs.github.io/).
+This repository contains the source code for the paper [I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs](https://arxiv.org/abs/2206.04739), by [Dongjin Lee](https://github.com/wooner49) and [Kijung Shin](https://kijungs.github.io/), to be presented at [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 
 In this paper, we propose **TriCL** (<ins>Tri</ins>-directional <ins>C</ins>ontrastive <ins>L</ins>earning), a general framework for contrastive learning on hypergraphs.
 Its main idea is tri-directional contrast, and specifically, it aims to maximize in two augmented views the agreement (a) between the same node, (b) between the same group of nodes, and (c) between each group and its members. 
