@@ -6,7 +6,7 @@ import torch.nn.functional as F
 from torch import Tensor
 from torch_scatter import scatter_add
 
-from tricon.layers import ProposedConv
+from TriCL.layers import ProposedConv
 
 
 class HyperEncoder(nn.Module):
