@@ -19,6 +19,16 @@ Our extensive experiments using 14 baseline approaches, 10 datasets, and two tas
 This code is free and open source for only academic/research purposes (non-commercial).
 If you use this code as part of any published research, please acknowledge the following paper.
 ```
+@inproceedings{lee2023m,
+  title={I’m me, we’re us, and i’m us: Tri-directional contrastive learning on hypergraphs},
+  author={Lee, Dongjin and Shin, Kijung},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={7},
+  pages={8456--8464},
+  year={2023}
+}
+
 @article{lee2022m,
   title={I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs},
   author={Lee, Dongjin and Shin, Kijung},
